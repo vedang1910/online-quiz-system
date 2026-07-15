@@ -1,0 +1,34 @@
+/* Apply Poppins font to the whole body */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa; /* Light Gray Background */
+    color: #333;
+}
+
+/* Modern Card Styling */
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); /* Soft shadow */
+    transition: transform 0.2s ease-in-out;
+}
+
+/* Primary Button Styling */
+.btn-primary {
+    background-color: #0d6efd; /* Blue Theme */
+    border-color: #0d6efd;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: 500;
+}
+
+.btn-primary:hover {
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+}
+
+/* Clean spacing for forms */
+.form-control {
+    border-radius: 8px;
+    padding: 12px;
+}   
