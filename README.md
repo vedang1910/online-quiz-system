@@ -62,18 +62,6 @@ Tables
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots after deployment.
-
-- Home Page
-- Login
-- Student Dashboard
-- Quiz Page
-- Result Page
-- Admin Dashboard
-
----
 
 ## 💡 Future Improvements
 
